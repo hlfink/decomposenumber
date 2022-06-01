@@ -1,0 +1,9 @@
+C:\repos\DecomposeNumber\DecomposeNumberApp\bin\Debug\netcoreapp3.1\DecomposeNumberApp.deps.json
+C:\repos\DecomposeNumber\DecomposeNumberApp\bin\Debug\netcoreapp3.1\DecomposeNumberApp.dll
+C:\repos\DecomposeNumber\DecomposeNumberApp\bin\Debug\netcoreapp3.1\DecomposeNumberApp.pdb
+C:\repos\DecomposeNumber\DecomposeNumberApp\obj\Debug\netcoreapp3.1\DecomposeNumberApp.AssemblyInfoInputs.cache
+C:\repos\DecomposeNumber\DecomposeNumberApp\obj\Debug\netcoreapp3.1\DecomposeNumberApp.AssemblyInfo.cs
+C:\repos\DecomposeNumber\DecomposeNumberApp\obj\Debug\netcoreapp3.1\DecomposeNumberApp.csproj.CoreCompileInputs.cache
+C:\repos\DecomposeNumber\DecomposeNumberApp\obj\Debug\netcoreapp3.1\DecomposeNumberApp.dll
+C:\repos\DecomposeNumber\DecomposeNumberApp\obj\Debug\netcoreapp3.1\DecomposeNumberApp.pdb
+C:\repos\DecomposeNumber\DecomposeNumberApp\obj\Debug\netcoreapp3.1\DecomposeNumberApp.csproj.AssemblyReference.cache

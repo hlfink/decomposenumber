@@ -1,0 +1,16 @@
+C:\repos\DecomposeNumber\DecomposeNumberConsoleApp\obj\Debug\netcoreapp3.1\DecomposeNumberConsoleApp.csproj.AssemblyReference.cache
+C:\repos\DecomposeNumber\DecomposeNumberConsoleApp\obj\Debug\netcoreapp3.1\DecomposeNumberConsoleApp.AssemblyInfoInputs.cache
+C:\repos\DecomposeNumber\DecomposeNumberConsoleApp\obj\Debug\netcoreapp3.1\DecomposeNumberConsoleApp.AssemblyInfo.cs
+C:\repos\DecomposeNumber\DecomposeNumberConsoleApp\obj\Debug\netcoreapp3.1\DecomposeNumberConsoleApp.csproj.CoreCompileInputs.cache
+C:\repos\DecomposeNumber\DecomposeNumberConsoleApp\bin\Debug\netcoreapp3.1\DecomposeNumberConsoleApp.exe
+C:\repos\DecomposeNumber\DecomposeNumberConsoleApp\bin\Debug\netcoreapp3.1\DecomposeNumberConsoleApp.deps.json
+C:\repos\DecomposeNumber\DecomposeNumberConsoleApp\bin\Debug\netcoreapp3.1\DecomposeNumberConsoleApp.runtimeconfig.json
+C:\repos\DecomposeNumber\DecomposeNumberConsoleApp\bin\Debug\netcoreapp3.1\DecomposeNumberConsoleApp.runtimeconfig.dev.json
+C:\repos\DecomposeNumber\DecomposeNumberConsoleApp\bin\Debug\netcoreapp3.1\DecomposeNumberConsoleApp.dll
+C:\repos\DecomposeNumber\DecomposeNumberConsoleApp\bin\Debug\netcoreapp3.1\DecomposeNumberConsoleApp.pdb
+C:\repos\DecomposeNumber\DecomposeNumberConsoleApp\bin\Debug\netcoreapp3.1\DecomposeNumberApp.dll
+C:\repos\DecomposeNumber\DecomposeNumberConsoleApp\bin\Debug\netcoreapp3.1\DecomposeNumberApp.pdb
+C:\repos\DecomposeNumber\DecomposeNumberConsoleApp\obj\Debug\netcoreapp3.1\DecomposeNumberConsoleApp.csproj.CopyComplete
+C:\repos\DecomposeNumber\DecomposeNumberConsoleApp\obj\Debug\netcoreapp3.1\DecomposeNumberConsoleApp.dll
+C:\repos\DecomposeNumber\DecomposeNumberConsoleApp\obj\Debug\netcoreapp3.1\DecomposeNumberConsoleApp.pdb
+C:\repos\DecomposeNumber\DecomposeNumberConsoleApp\obj\Debug\netcoreapp3.1\DecomposeNumberConsoleApp.genruntimeconfig.cache

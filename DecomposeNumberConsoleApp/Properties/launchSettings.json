@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DecomposeNumberConsoleApp": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

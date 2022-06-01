@@ -1,0 +1,13 @@
+C:\repos\DecomposeNumber\bin\Debug\DecomposeNumberApi.deps.json
+C:\repos\DecomposeNumber\bin\Debug\DecomposeNumberApi.runtimeconfig.json
+C:\repos\DecomposeNumber\bin\Debug\DecomposeNumberApi.runtimeconfig.dev.json
+C:\repos\DecomposeNumber\bin\Debug\appsettings.Development.json
+C:\repos\DecomposeNumber\bin\Debug\appsettings.json
+C:\repos\DecomposeNumber\bin\Debug\DecomposeNumberApi.exe
+C:\repos\DecomposeNumber\bin\Debug\DecomposeNumberApi.dll
+C:\repos\DecomposeNumber\bin\Debug\DecomposeNumberApp.dll
+C:\repos\DecomposeNumber\bin\Debug\DecomposeNumberApi.pdb
+C:\repos\DecomposeNumber\bin\Debug\DecomposeNumberApp.pdb
+C:\repos\DecomposeNumber\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\repos\DecomposeNumber\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\repos\DecomposeNumber\obj\Debug\docker-compose.dcproj.CopyComplete

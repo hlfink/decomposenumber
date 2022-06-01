@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PbbOCfPZnG+MK9W4k02vVB1fjAq7aM+Mkb6y6u11MarXjF/cB5vxBHlMm4E9HWza1ZTppDjiDNzVxFEFWttLLw==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\DecomposeNumber\\DecomposeNumberApi\\DecomposeNumberApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\henriquefink.parceir\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512"
+  ],
+  "logs": []
+}
